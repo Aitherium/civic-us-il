@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-il-house-of-representatives",
+  "district": "73",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:79e5985716a999e2574a502524854a37366740a3bc6c66253a2b8ae2630970f7",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/139cce29-08b9-4731-a7e9-bdeec8129eaa/2017-01-11",
+  "jurisdiction": "jur:us-il",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-il-house-of-representatives/73",
+  "overrides": [],
+  "person": {
+    "full_name": "Ryan Spain",
+    "party": "Republican"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2017-01-11",
+    "status": "current"
+  },
+  "title": "Ryan Spain (State Representative)"
+}

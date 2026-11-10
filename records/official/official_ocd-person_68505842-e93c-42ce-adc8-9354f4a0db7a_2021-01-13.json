@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-il-house-of-representatives",
+  "district": "66",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:220caa750181253c5dd905ce23409a749001462aadfb400db5c99accd7f851c1",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/68505842-e93c-42ce-adc8-9354f4a0db7a/2021-01-13",
+  "jurisdiction": "jur:us-il",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-il-house-of-representatives/66",
+  "overrides": [],
+  "person": {
+    "full_name": "Suzanne Ness",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2021-01-13",
+    "status": "current"
+  },
+  "title": "Suzanne Ness (State Representative)"
+}

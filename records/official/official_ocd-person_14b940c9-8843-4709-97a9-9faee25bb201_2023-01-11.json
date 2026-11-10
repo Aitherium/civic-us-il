@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-il-house-of-representatives",
+  "district": "83",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:762d2dae5f504f7cfe9697d675f5808aaa376c13254595cdad36ea12b9036633",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/14b940c9-8843-4709-97a9-9faee25bb201/2023-01-11",
+  "jurisdiction": "jur:us-il",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-il-house-of-representatives/83",
+  "overrides": [],
+  "person": {
+    "full_name": "Matt Hanson",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2023-01-11",
+    "status": "current"
+  },
+  "title": "Matt Hanson (State Representative)"
+}

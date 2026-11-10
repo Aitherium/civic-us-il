@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-il-house-of-representatives",
+  "district": "13",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:e542ae0c3149ea23a0befc3b05d5a47da716ba2a3995f9dc86bebcec8c574a8d",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/c7156dc3-31a6-4582-bf3a-b325c9dc868f/2023-01-11",
+  "jurisdiction": "jur:us-il",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-il-house-of-representatives/13",
+  "overrides": [],
+  "person": {
+    "full_name": "Hoan Huynh",
+    "party": "Democratic"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2023-01-11",
+    "status": "current"
+  },
+  "title": "Hoan Huynh (State Representative)"
+}

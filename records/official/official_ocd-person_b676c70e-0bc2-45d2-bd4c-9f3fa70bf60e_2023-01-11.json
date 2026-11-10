@@ -1,0 +1,52 @@
+{
+  "body": "body:jur:us-il-senate",
+  "district": "47",
+  "generation": {
+    "at": "2026-11-10",
+    "content_hash": "sha256:226f674a929103002ad8b0716c6000ec12328e76f86fd82b25e85f82e3bde841",
+    "generator": "civic_repo_gen/0.1.0",
+    "source_snapshot": {
+      "law": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+      "officials": "2026-11-10T07:36:16Z",
+      "units": ""
+    }
+  },
+  "id": "official:ocd-person/b676c70e-0bc2-45d2-bd4c-9f3fa70bf60e/2023-01-11",
+  "jurisdiction": "jur:us-il",
+  "kind": "official",
+  "level": "state",
+  "office": "office:body:jur:us-il-senate/47",
+  "overrides": [],
+  "person": {
+    "full_name": "Neil Anderson",
+    "party": "Republican"
+  },
+  "privacy": "public-official",
+  "provenance": {
+    "added_at": "2026-11-10",
+    "added_by": "civic_repo_gen/0.1.0",
+    "evidence": {},
+    "sources": [
+      {
+        "license": "CC0-1.0",
+        "retrieved_at": "2026-11-10",
+        "source_id": "source:d67cc2aa6a7260fe",
+        "url": "https://github.com/openstates/people"
+      }
+    ],
+    "validated": {
+      "at": "2026-11-10",
+      "by": "civic_repo_gen/0.1.0",
+      "method": "generated-official"
+    },
+    "vouches": []
+  },
+  "schema_version": "civic/1",
+  "status": "current",
+  "term": {
+    "end": null,
+    "start": "2023-01-11",
+    "status": "current"
+  },
+  "title": "Neil Anderson (State Senator)"
+}
